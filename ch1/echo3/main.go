@@ -14,7 +14,7 @@ import (
 
 //!+
 func main() {
-	fmt.Println(strings.Join(os.Environ(), "\n"))
+	fmt.Println(strings.Join(os.Args[1:], "\n"))
 }
 
 //!-
