@@ -1,0 +1,91 @@
+18 issues:
+----------------------------------------
+Number: 20567
+User:   schmichael
+Title:  json: reduce allocations by Decoder for \uXXXX
+Age:    38 days
+----------------------------------------
+Number: 20814
+User:   epelc
+Title:  proposal: image: support decoder instance with specific formats
+Age:    14 days
+----------------------------------------
+Number: 11046
+User:   kurin
+Title:  encoding/json: Decoder internally buffers full input
+Age:    769 days
+----------------------------------------
+Number: 15314
+User:   okdave
+Title:  proposal: some way to reject unknown fields in encoding/json.Dec
+Age:    453 days
+----------------------------------------
+Number: 12001
+User:   lukescott
+Title:  encoding/json: Marshaler/Unmarshaler not stream friendly
+Age:    708 days
+----------------------------------------
+Number: 5901
+User:   rsc
+Title:  encoding/json: allow override type marshaling
+Age:    1455 days
+----------------------------------------
+Number: 17609
+User:   nathanjsweet
+Title:  encoding/json: ambiguous fields are marshalled
+Age:    258 days
+----------------------------------------
+Number: 7872
+User:   extemporalgenome
+Title:  encoding/json: Encoder internally buffers full output
+Age:    1172 days
+----------------------------------------
+Number: 16212
+User:   josharian
+Title:  encoding/json: do all reflect work before decoding
+Age:    377 days
+----------------------------------------
+Number: 20528
+User:   jvshahid
+Title:  net/http: connection reuse does not work happily with normal use
+Age:    42 days
+----------------------------------------
+Number: 14750
+User:   cyberphone
+Title:  encoding/json: parser ignores the case of member names
+Age:    488 days
+----------------------------------------
+Number: 19469
+User:   chengzhicn
+Title:  runtime: temporary object is not garbage collected
+Age:    125 days
+----------------------------------------
+Number: 20754
+User:   rsc
+Title:  encoding/xml: unmarshal only processes first XML element
+Age:    19 days
+----------------------------------------
+Number: 7213
+User:   davecheney
+Title:  cmd/compile: escape analysis oddity
+Age:    1262 days
+----------------------------------------
+Number: 15808
+User:   randall77
+Title:  cmd/compile: loads/constants not lifted out of loop
+Age:    414 days
+----------------------------------------
+Number: 20206
+User:   markdryan
+Title:  encoding/base64: encoding is slow
+Age:    70 days
+----------------------------------------
+Number: 17244
+User:   adg
+Title:  proposal: decide policy for sub-repositories
+Age:    288 days
+----------------------------------------
+Number: 19029
+User:   cynecx
+Title:  runtime: fatal error: sweep increased allocation count (With go 
+Age:    151 days
